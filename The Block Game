@@ -1,0 +1,49 @@
+/*#include <iostream>
+using namespace std;
+
+int main() {
+    int t;
+    cin>>t;
+    while(t--){
+       /* int n,i;
+        cin>>n;
+        int arr[n];
+        for(i=1;i<=n;i++){
+            cin>>arr[i];
+        }
+        bool check=true;
+        for(i=1;i<=n;i++){
+            if(arr[i]!=arr[n-1-i]){
+                check=false;
+                break;
+            }
+        }
+        if(check==true){
+            cout<<"wins"<<endl;
+        }
+        else{
+            cout<<"loses"<<endl;
+        }
+    } */
+    
+    
+ /*  int n,reverse=0,t;
+    cin>>n;
+    t=n;
+    while(t!=0){
+        reverse=reverse*10+t%10;
+        t/=10;
+        
+    }
+    if(reverse==n){
+        cout<<"wins"<<endl;
+    }
+    else{
+        cout<<"loses"<<endl;
+    }
+    
+        
+    }   
+	// your code goes here
+	return 0;
+}*/
